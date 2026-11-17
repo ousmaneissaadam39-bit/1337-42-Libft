@@ -1,6 +1,19 @@
 *This project has been created as part of the 42 curriculum by isousman.*
 
 # Libft
+*This project has been created as part of the 42 curriculum by isousman.*
+
+# Libft - 1337 / 42 School Project
+
+![Validation 100%](./assets/libft.png)
+
+## 📋 Table of Contents
+* [About The Project](#about-the-project)
+* [List of Functions](#list-of-functions)
+* [Getting Started](#getting-started)
+* [Usage](#usage)
+* [Testing & Evaluation](#testing--evaluation)
+* [Author](#author)
 
 ## Description
 
